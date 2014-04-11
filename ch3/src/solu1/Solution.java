@@ -33,6 +33,7 @@ public class Solution {
 	{
 		boolean b=isPalindrome(10);
 		System.out.println(b);
+		System.out.println(b);
 	}
 
 }
